@@ -38,7 +38,7 @@ Welcome to **Moodly**, your personal space to express thoughts, share moods, and
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/moodly.git
+git clone https://github.com/roni2668/moodly.git
 cd moodly
 
 # 2. Install dependencies
